@@ -1,0 +1,14 @@
+{
+  "name": "@okoyannaya/eslint-plugin-classname-wrap",
+  "version": "0.1.0",
+  "description": "Wrap long className and clsx strings without splitting classes",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": "./index.mjs",
+  "files": ["index.mjs", "rules/"],
+  "peerDependencies": {
+    "eslint": "^9.0.0"
+  },
+  "keywords": ["eslint", "eslintplugin", "eslint-plugin", "clsx"],
+  "license": "MIT"
+}
