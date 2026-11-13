@@ -1,5 +1,7 @@
 # @okoyannaya/eslint-plugin-classname-wrap
 
+Пакет на npm: [npm](https://www.npmjs.com/package/@okoyannaya/eslint-plugin-classname-wrap)
+
 ESLint-плагин для автоматического переноса длинных строк CSS-классов
 в JSX-атрибутах `className` и аргументах функции `clsx()`.
 
